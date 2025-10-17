@@ -70,3 +70,5 @@ The dashboard was created using the following tools and technologies:
 
 ## Screenshots / Demos
 Example: ![Dashboard Preview](https://github.com/iharshxdeep/Car-sales-dashboard/blob/main/Screenshot%202025-10-13%20154750.png)
+
+⭐ Don’t forget to give this project a star if you found it useful!
